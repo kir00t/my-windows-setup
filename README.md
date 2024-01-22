@@ -8,5 +8,5 @@ This is a windows setup for programmers and developers, click in "<a href="https
 
 ## 3- install and setup .NET
 
-## install and setup windows terminal
+## 4- install and setup windows terminal
 
