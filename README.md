@@ -12,5 +12,5 @@ This is a windows setup for programmers and developers, click in <a href="https:
 
 ## 5- setup linux and windows
 
-Wsl is the linux subsystem for windows, click in <a href="https://learn.microsoft.com/en-us/windows/wsl/install">install wsl.</a> 
+May you need use an linux based system for some thing like run an ubuntu server, wsl is the linux subsystem for windows, click in <a href="https://learn.microsoft.com/en-us/windows/wsl/install">install wsl.</a> 
 
